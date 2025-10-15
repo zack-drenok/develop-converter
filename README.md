@@ -37,3 +37,5 @@ const bestParams = await optimizer.optimize(config);
 - **cloud**: D-Wave, Rigetti, IBM cloud Experience
 
 # Touch update: 1760518890
+
+# PR Update: 2025-10-15 - fix/update-8297
