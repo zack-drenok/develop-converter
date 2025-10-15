@@ -78,3 +78,5 @@ ${app}->run();
 # PR Merge: 2025-10-15 - refactor/merge-1488
 
 # PR Merge: 2025-10-15 - fix/merge-5410
+
+# PR Merge: 2025-10-15 - fix/merge-5688
