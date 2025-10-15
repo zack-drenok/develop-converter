@@ -74,3 +74,5 @@ ${app}->run();
 # Additional Implementation 1760518886
 
 # PR Merge: 2025-10-15 - enhancement/merge-1517
+
+# PR Merge: 2025-10-15 - docs/merge-4814
